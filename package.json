@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dzmitryuser/mesto-project-ff.git"
+    "url": "git+https://github.com/itsvakonst/mesto-project-ff-main.git"
   },
   "author": "myself",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dzmitryuser/mesto-project-ff/issues"
+    "url": "https://github.com/itsvakonst/mesto-project-ff-main/issues"
   },
-  "homepage": "https://github.com/Dzmitryuser/mesto-project-ff#readme",
+  "homepage": "https://itsvakonst.github.io/mesto-project-ff-main/",
   "dependencies": {
     "core-js": "^3.41.0",
     "jquery": "^3.7.1"
